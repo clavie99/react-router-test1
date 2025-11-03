@@ -1,0 +1,52 @@
+{
+  "/Users/clavie/Downloads/examples-main/framework-boilerplates/react-router/app/app.css": {
+    "file": "assets/app-Ckulty-W.css",
+    "src": "/Users/clavie/Downloads/examples-main/framework-boilerplates/react-router/app/app.css"
+  },
+  "_chunk-UIGDSWPH-Buupt3Sd.js": {
+    "file": "assets/chunk-UIGDSWPH-Buupt3Sd.js",
+    "name": "chunk-UIGDSWPH"
+  },
+  "app/root.tsx?__react-router-build-client-route": {
+    "file": "assets/root-gyHJvC-O.js",
+    "name": "root",
+    "src": "app/root.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-UIGDSWPH-Buupt3Sd.js"
+    ],
+    "assets": [
+      "assets/app-Ckulty-W.css"
+    ]
+  },
+  "app/routes/home.tsx?__react-router-build-client-route": {
+    "file": "assets/home-CcYavsK3.js",
+    "name": "home",
+    "src": "app/routes/home.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-UIGDSWPH-Buupt3Sd.js"
+    ],
+    "assets": [
+      "assets/logo-dark-pX2395Y0.svg",
+      "assets/logo-light-CVbx2LBR.svg"
+    ]
+  },
+  "app/welcome/logo-dark.svg": {
+    "file": "assets/logo-dark-pX2395Y0.svg",
+    "src": "app/welcome/logo-dark.svg"
+  },
+  "app/welcome/logo-light.svg": {
+    "file": "assets/logo-light-CVbx2LBR.svg",
+    "src": "app/welcome/logo-light.svg"
+  },
+  "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx": {
+    "file": "assets/entry.client-B-PA6pUM.js",
+    "name": "entry.client",
+    "src": "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_chunk-UIGDSWPH-Buupt3Sd.js"
+    ]
+  }
+}
